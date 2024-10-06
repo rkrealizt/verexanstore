@@ -4,29 +4,29 @@ import "./globals.css";
 import { Toaster } from "react-hot-toast";
 
 export const metadata = {
-  metadataBase: new URL("https://verexan.com"),
-  title: "Verexan - Undetected Hacks and Cheats for PC",
+  metadataBase: new URL("https://canim-csr.vercel.app"),
+  title: "Canim - Shop & eCommerce React Template",
   description:
-    "Discover Verexan, your ultimate destination for undetected hacks and cheats for PC gaming. Unlock new levels of gameplay with our reliable, safe, and user-friendly tools. Stay ahead of the competition and enhance your gaming experience without the risk of detection. Join our community today and elevate your skills with Verexan!",
+    "Buy Canim - Shop & eCommerce Next.Js Template by Hasibul Islam. Canim | Shop & eCommerce React Template - a responsive React template. Canim is built with the latest Next.Js 13 App Directory",
   openGraph: {
-    title: "Verexan - Undetected Hacks and Cheats for PC",
+    title: "Canim - Shop & eCommerce React Template",
     description:
-      "Discover Verexan, your ultimate destination for undetected hacks and cheats for PC gaming. Unlock new levels of gameplay with our reliable, safe, and user-friendly tools. Stay ahead of the competition and enhance your gaming experience without the risk of detection. Join our community today and elevate your skills with Verexan!",
-    url: "https://verexan.com",
-    siteName: "Verexan",
+      "Buy Canim - Shop & eCommerce Next.Js Template by Hasibul Islam. Canim | Shop & eCommerce React Template - a responsive React template. Canim is built with the latest Next.Js 13 App Directory",
+    url: "https://canim-csr.vercel.app",
+    siteName: "Canim Template",
     images:
-      "https://cdn.verexan.com/images/logo.png",
+      "https://github.com/devhasibulislam/canim-ecommerce/blob/master/client/public/og.png?raw=true",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    site: "@rkrealizt",
-    title: "Verexan - Shop & eCommerce React Template",
+    site: "@devhasibulislam",
+    title: "Canim - Shop & eCommerce React Template",
     description:
-      "Unlock your gaming potential with Verexan! 🎮✨ Explore our undetected hacks and cheats for PC, designed for a safe and enhanced gameplay experience. Join the revolution and level up your skills today! #Gaming #Hacks #Verexan",
+      "Buy Canim - Shop & eCommerce Next.Js Template by Hasibul Islam. Canim | Shop & eCommerce React Template - a responsive React template. Canim is built with the latest Next.Js 13 App Directory",
     image:
-      "https://cdn.verexan.com/images/logo.png",
+      "https://github.com/devhasibulislam/canim-ecommerce/blob/master/client/public/og.png?raw=true",
   },
 };
 

@@ -1,8 +1,15 @@
 /**
  * Title: Write a program using JavaScript on Banner1
- * Author: rkrealizt
- * Portfolio: https://bento.me/rkrealizt
- * GitHub: https://github.com/rkrealizt
+ * Author: Hasibul Islam
+ * Portfolio: https://devhasibulislam.vercel.app
+ * Linkedin: https://linkedin.com/in/devhasibulislam
+ * GitHub: https://github.com/devhasibulislam
+ * Facebook: https://facebook.com/devhasibulislam
+ * Instagram: https://instagram.com/devhasibulislam
+ * Twitter: https://twitter.com/devhasibulislam
+ * Pinterest: https://pinterest.com/devhasibulislam
+ * WhatsApp: https://wa.me/8801906315901
+ * Telegram: devhasibulislam
  * Date: 09, October 2023
  */
 
@@ -39,7 +46,7 @@ const Banner1 = () => {
             </p>
             <button
               className="px-8 py-4 border border-black rounded-secondary bg-black hover:bg-black/90 text-white transition-colors drop-shadow w-fit mt-4"
-              onClick={() => router.push("https://verexan.com/")}
+              onClick={() => router.push("https://devhasibulislam.vercel.app/")}
             >
               Start Your Queries
             </button>

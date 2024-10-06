@@ -1,3 +1,4 @@
+
 import Dashboard from "@/components/shared/layouts/Dashboard";
 import React from "react";
 
@@ -7,7 +8,7 @@ const ControlPanel = () => {
       <div className="w-full h-full flex justify-center items-center !rounded">
         <iframe
           title="Portfolio"
-          src="bento.me/rkrealizt"
+          src="https://bento.me/rkrealizt"
           style={{ width: "100%", height: "100%", borderRadius: "10px" }}
           frameBorder="0"
           scrolling="auto"

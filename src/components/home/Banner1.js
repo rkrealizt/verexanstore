@@ -1,8 +1,8 @@
 /**
  * Title: Write a program using JavaScript on Banner1
  * Author: rkrealizt
+ * Portfolio: https://bento.me/rkrealizt
  * GitHub: https://github.com/rkrealizt
- * Telegram: rk.realizt
  * Date: 09, October 2023
  */
 
@@ -39,7 +39,7 @@ const Banner1 = () => {
             </p>
             <button
               className="px-8 py-4 border border-black rounded-secondary bg-black hover:bg-black/90 text-white transition-colors drop-shadow w-fit mt-4"
-              onClick={() => router.push("bento.me/rkrealizt")}
+              onClick={() => router.push("https://verexan.com/")}
             >
               Start Your Queries
             </button>

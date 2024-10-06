@@ -1,8 +1,8 @@
 /**
  * Title: Write a program using JavaScript on Footer
  * Author: rkrealizt
+ * Portfolio: https://bento.me/rkrealizt
  * GitHub: https://github.com/rkrealizt
- * Telegram: rk.realizt
  * Date: 17, October 2023
  */
 
@@ -129,6 +129,14 @@ const Footer = () => {
     {
       name: "Stay Connected",
       paths: [
+        {
+          name: "Facebook",
+          path: "https://www.facebook.com/rkrealizt/",
+        },
+        {
+          name: "LinkedIn",
+          path: "https://www.linkedin.com/in/rkrealizt/",
+        },
         {
           name: "GitHub",
           path: "https://github.com/rkrealizt/",

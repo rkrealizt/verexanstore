@@ -1,10 +1,3 @@
-/**
- * Title: Write a program using JavaScript on Page
- * Author: rkrealizt
- * GitHub: https://github.com/rkrealizt
- * Telegram: rk.realizt
- * Date: 20, January 2024
- */
 
 "use client";
 

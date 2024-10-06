@@ -1,8 +1,8 @@
 /**
  * Title: Write a program using JavaScript on Banner2
  * Author: rkrealizt
+ * Portfolio: https://bento.me/rkrealizt
  * GitHub: https://github.com/rkrealizt
- * Telegram: rk.realizt
  * Date: 14, October 2023
  */
 
@@ -38,7 +38,7 @@ const Banner2 = ({ className }) => {
                 particular period and place.
               </p>
               <button className="px-8 py-4 border border-black rounded-secondary bg-black hover:bg-black/90 text-white transition-colors drop-shadow w-fit mt-4"
-              onClick={() => router.push("https://dev.verexan.com/")}>
+              onClick={() => router.push("https://verexan.com")}>
                 Discover More
               </button>
             </div>

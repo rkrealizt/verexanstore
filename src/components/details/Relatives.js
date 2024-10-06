@@ -1,8 +1,8 @@
 /**
  * Title: Write a program using JavaScript on NewArrivals
  * Author: rkrealizt
+ * Portfolio: https://bento.me/rkrealizt
  * GitHub: https://github.com/rkrealizt
- * Telegram: rk.realizt
  * Date: 10, October 2023
  */
 

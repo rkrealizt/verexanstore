@@ -1,8 +1,8 @@
 /**
  * Title: Write a program using JavaScript on Women
  * Author: rkrealizt
+ * Portfolio: https://bento.me/rkrealizt
  * GitHub: https://github.com/rkrealizt
- * Telegram: rk.realizt
  * Date: 08, November 2023
  */
 
